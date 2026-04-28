@@ -2,13 +2,6 @@
 Medicine Recommendation System
 A machine learning powered web application that predicts diseases based on user symptoms and recommends medications, diets, precautions, and workouts through an interactive health dashboard.
 
-
-First View
-
-
-Dashboard	
-Metrics
-
 Project Overview
 This application allows users to input symptoms and receive:
 
